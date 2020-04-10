@@ -8,7 +8,7 @@
     android:orientation="vertical">
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/signupName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="0"
@@ -19,7 +19,7 @@
         android:hint="Name" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/signupEmail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="85dp"
@@ -29,7 +29,7 @@
         android:hint="Email ID" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/signupPass"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="85dp"
@@ -39,7 +39,7 @@
         android:hint="password" />
 
     <EditText
-        android:id="@+id/editText4"
+        android:id="@+id/signUpCPass"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -55,4 +55,5 @@
         android:layout_marginStart="150dp"
         android:layout_marginTop="20dp"
         android:text="Register" />
+
 </LinearLayout>

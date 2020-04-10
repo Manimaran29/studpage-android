@@ -8,17 +8,17 @@
     android:orientation="vertical">
 
     <EditText
-        android:id="@+id/editText5"
+        android:id="@+id/loginEmail"
         android:layout_width="271dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="45dp"
         android:layout_marginTop="220dp"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:hint="Name" />
+        android:hint="Email"
+        android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/editText6"
+        android:id="@+id/loginPass"
         android:layout_width="268dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="45dp"

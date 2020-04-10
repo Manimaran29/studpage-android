@@ -7,6 +7,13 @@
     tools:context="com.example.studpage.Main2Activity"
     android:orientation="vertical">
 
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="72dp"
+        android:layout_height="33dp"
+        android:text="Log Out"
+        android:textSize="10sp" />
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
@@ -54,4 +61,5 @@
         android:layout_height="wrap_content"
         android:text="IOT"
         android:layout_marginStart="122dp"/>
+
 </LinearLayout>

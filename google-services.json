@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132519079082",
+    "firebase_url": "https://studpage-89281.firebaseio.com",
+    "project_id": "studpage-89281",
+    "storage_bucket": "studpage-89281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132519079082:android:2e2c2195dd71cc863074d3",
+        "android_client_info": {
+          "package_name": "com.example.studpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132519079082-lbgel75cdqr1oeem56gjc10i4f99b5uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studpage",
+            "certificate_hash": "1dbf89534c5f3bad42d9252fefa072d199e1c6b1"
+          }
+        },
+        {
+          "client_id": "132519079082-s3nqbt92m8sa2tja5hiripm17cdaegn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPAtFoBY2rI5q2Nt6WZ1bGD9Oo7KmIffg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132519079082-s3nqbt92m8sa2tja5hiripm17cdaegn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
